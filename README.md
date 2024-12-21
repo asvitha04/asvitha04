@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a data science student at **Thiagarajar Colleg
 - Participated in several hackathons, including the **MH2023**, **iTech Hackathon**, and **WiDS Datathon 2024**.
 
 ## 🤝 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/asvitha)
+- [LinkedIn](https://www.linkedin.com/in/asvitha-r-25a381283)
 - [Email](mailto:asvitharajesh4@gmail.com)
 
 Feel free to explore my repositories and get in touch with me for any collaboration or inquiries! 😊
